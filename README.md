@@ -1,6 +1,6 @@
 #  Hi, I'm Waad Alribi
 
- **Computer Science Graduate** | 🤖 **AI & Machine Learning Enthusiast**  
+ **Computer Science Student** | 🤖 **AI & Machine Learning Enthusiast**  
 💻 Passionate about solving real-world problems using **Data, Algorithms, and AI**  
 
 ---
