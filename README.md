@@ -1,19 +1,19 @@
-# 👋 Hi, I'm Waad Alribi
+#  Hi, I'm Waad Alribi
 
-🎓 **Computer Science Graduate** | 🤖 **AI & Machine Learning Enthusiast**  
+ **Computer Science Graduate** | 🤖 **AI & Machine Learning Enthusiast**  
 💻 Passionate about solving real-world problems using **Data, Algorithms, and AI**  
 
 ---
 
-## 🧠 About Me
-- 🎯 Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**  
-- 🌱 Currently learning: **NLP (Natural Language Processing)** and **Computer Vision**  
-- 🔍 Interested in research and practical applications of AI in healthcare, education, and automation  
-- 🤝 Open to collaborating on **AI-based projects** and **open-source contributions**
+##  About Me
+-  Focused on **Artificial Intelligence, Machine Learning, and Deep Learning**  
+-  Currently learning: **NLP (Natural Language Processing)** and **Computer Vision**  
+- Interested in research and practical applications of AI in healthcare, education, and automation  
+- Open to collaborating on **AI-based projects** and **open-source contributions**
 
 ---
 
-## 🚀 Skills & Tools
+##  Skills & Tools
 - **Programming:** Python, C++, Java  
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Scikit-learn  
 - **Data Science:** Pandas, NumPy, Matplotlib, Jupyter Notebook  
